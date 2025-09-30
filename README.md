@@ -11,6 +11,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
@@ -20,4 +21,8 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
