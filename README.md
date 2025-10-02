@@ -9,6 +9,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0007-reverse-integer](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [1642-water-bottles](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [1642-water-bottles](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 ## Combinatorics
 |  |
 | ------- |
