@@ -15,6 +15,7 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0228-summary-ranges](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
