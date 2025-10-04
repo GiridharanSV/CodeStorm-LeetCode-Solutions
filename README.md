@@ -14,6 +14,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0228-summary-ranges](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Breadth-First Search
 |  |
@@ -65,4 +67,8 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
