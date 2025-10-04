@@ -19,6 +19,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0228-summary-ranges](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -36,16 +37,19 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +59,7 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [0011-container-with-most-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Breadth-First Search
 |  |
 | ------- |
