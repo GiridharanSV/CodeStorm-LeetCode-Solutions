@@ -29,6 +29,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0485-max-consecutive-ones](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
@@ -73,6 +74,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0088-merge-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 <!---LeetCode Topics End-->
