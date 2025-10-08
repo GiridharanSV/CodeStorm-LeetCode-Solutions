@@ -54,6 +54,7 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Binary Search
@@ -130,5 +131,6 @@ A curated collection of my LeetCode solutions written in Java.
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 <!---LeetCode Topics End-->
