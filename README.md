@@ -31,6 +31,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0283-move-zeroes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Breadth-First Search
 |  |
 | ------- |
