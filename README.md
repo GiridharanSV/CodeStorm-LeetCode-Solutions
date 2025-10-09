@@ -28,6 +28,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0414-third-maximum-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -53,6 +54,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
@@ -61,6 +63,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0290-word-pattern](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 ## Binary Search
 |  |
@@ -146,4 +149,12 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
