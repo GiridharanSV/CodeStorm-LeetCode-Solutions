@@ -35,6 +35,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Simulation
 |  |
@@ -57,6 +58,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0414-third-maximum-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0350-intersection-of-two-arrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,6 +96,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0350-intersection-of-two-arrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,6 +145,7 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -159,4 +165,5 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 <!---LeetCode Topics End-->
