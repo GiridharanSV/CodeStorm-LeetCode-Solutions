@@ -176,6 +176,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0389-find-the-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Prefix Sum
