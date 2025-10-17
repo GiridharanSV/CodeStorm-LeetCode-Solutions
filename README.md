@@ -104,6 +104,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0029-divide-two-integers](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -184,6 +186,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0459-repeated-substring-pattern](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String Matching
 |  |
