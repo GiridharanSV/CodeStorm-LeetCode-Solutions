@@ -9,6 +9,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0007-reverse-integer](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -48,6 +49,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -181,6 +183,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0387-first-unique-character-in-a-string](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
