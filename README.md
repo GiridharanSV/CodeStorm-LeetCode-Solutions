@@ -23,6 +23,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0011-container-with-most-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -183,6 +184,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
