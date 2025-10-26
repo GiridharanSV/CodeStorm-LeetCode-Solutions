@@ -43,6 +43,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -62,6 +63,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0415-add-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -102,6 +104,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [2169-simple-bank-system](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -261,4 +264,8 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
