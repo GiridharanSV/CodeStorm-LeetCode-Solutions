@@ -44,6 +44,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2169-simple-bank-system) |
@@ -176,6 +177,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0011-container-with-most-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Depth-First Search
@@ -206,6 +208,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0119-pascals-triangle-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -279,4 +282,12 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2169-simple-bank-system) |
+## Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
