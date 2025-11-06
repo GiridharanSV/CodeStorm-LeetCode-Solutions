@@ -71,6 +71,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0407-trapping-rain-water-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -206,10 +210,12 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
 | ------- |
@@ -326,4 +332,12 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0561-array-partition) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
