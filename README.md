@@ -56,6 +56,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -144,6 +145,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -204,6 +206,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Depth-First Search
@@ -267,6 +270,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Prefix Sum
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -277,6 +281,7 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -292,6 +297,7 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Bitmask
 |  |
 | ------- |
