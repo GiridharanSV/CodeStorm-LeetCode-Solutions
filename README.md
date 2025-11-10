@@ -266,6 +266,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0415-add-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0742-to-lower-case](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
