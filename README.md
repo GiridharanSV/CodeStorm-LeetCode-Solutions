@@ -72,6 +72,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Simulation
@@ -136,6 +137,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -212,6 +214,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -332,10 +335,12 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
 |  |
 | ------- |
