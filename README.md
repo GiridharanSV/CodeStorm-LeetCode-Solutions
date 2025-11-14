@@ -61,6 +61,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -206,6 +207,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Greedy
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [0724-find-pivot-index](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
