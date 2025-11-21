@@ -46,6 +46,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0561-array-partition](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0704-binary-search](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -155,6 +156,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
