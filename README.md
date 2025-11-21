@@ -42,6 +42,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0417-pacific-atlantic-water-flow](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -110,6 +111,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0350-intersection-of-two-arrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1137-height-checker) |
@@ -198,6 +200,7 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0506-relative-ranks](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
