@@ -51,6 +51,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0717-1-bit-and-2-bit-characters](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -176,6 +177,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
