@@ -11,6 +11,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0415-add-strings) |
+| [1323-maximum-69-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -231,6 +232,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0409-longest-palindrome](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1323-maximum-69-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
