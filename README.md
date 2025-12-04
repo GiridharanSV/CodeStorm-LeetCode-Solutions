@@ -98,6 +98,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1642-water-bottles](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
@@ -308,6 +309,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -377,6 +379,7 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2211-count-collisions-on-a-road](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
