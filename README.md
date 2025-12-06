@@ -422,4 +422,8 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
