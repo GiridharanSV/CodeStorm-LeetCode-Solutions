@@ -79,6 +79,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -285,6 +286,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
@@ -327,6 +329,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [2625-increment-submatrices-by-one](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -337,6 +340,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -355,6 +359,7 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Bitmask
 |  |
 | ------- |
@@ -413,4 +418,8 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
