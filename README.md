@@ -12,6 +12,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0412-fizz-buzz](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1323-maximum-69-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
