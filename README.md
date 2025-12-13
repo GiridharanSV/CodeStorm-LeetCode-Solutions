@@ -88,6 +88,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -141,6 +142,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3433-count-mentions-per-user](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3606-coupon-code-validator](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -168,6 +170,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -333,6 +336,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
