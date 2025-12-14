@@ -17,6 +17,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1642-water-bottles](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -299,6 +300,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -332,6 +334,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
