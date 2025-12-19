@@ -146,6 +146,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1137-height-checker](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2092-find-all-people-with-secret](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3433-count-mentions-per-user](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
@@ -233,6 +234,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0407-trapping-rain-water-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Heap (Priority Queue)
 |  |
@@ -277,12 +279,14 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
@@ -444,6 +448,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
