@@ -62,6 +62,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0724-find-pivot-index](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0867-transpose-matrix](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [0944-delete-columns-to-make-sorted](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -343,6 +344,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0680-valid-palindrome-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0944-delete-columns-to-make-sorted](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
