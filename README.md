@@ -86,6 +86,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3074-apple-redistribution-into-boxes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -154,6 +155,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [2092-find-all-people-with-secret](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3074-apple-redistribution-into-boxes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3606-coupon-code-validator](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
@@ -277,6 +279,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3074-apple-redistribution-into-boxes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
