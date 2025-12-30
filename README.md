@@ -12,6 +12,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0412-fizz-buzz](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
+| [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1323-maximum-69-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -61,6 +62,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0717-1-bit-and-2-bit-characters](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -178,6 +180,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0575-distribute-candies](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -263,6 +266,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0407-trapping-rain-water-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
