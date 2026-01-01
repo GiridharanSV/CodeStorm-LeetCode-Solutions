@@ -75,6 +75,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1436-destination-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -185,6 +186,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1436-destination-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2169-simple-bank-system) |
@@ -372,6 +374,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1078-remove-outermost-parentheses](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1436-destination-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
