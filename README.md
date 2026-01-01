@@ -8,6 +8,7 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [0007-reverse-integer](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0415-add-strings) |
@@ -40,6 +41,7 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [0011-container-with-most-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
