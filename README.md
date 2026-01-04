@@ -15,6 +15,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0728-self-dividing-numbers](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1323-maximum-69-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1323-maximum-69-number) |
+| [1390-four-divisors](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1642-water-bottles) |
@@ -76,6 +77,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1436-destination-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1612-avoid-flood-in-the-city](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
