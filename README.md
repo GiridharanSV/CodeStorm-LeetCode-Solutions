@@ -73,6 +73,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -160,6 +161,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0506-relative-ranks](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -249,6 +251,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0541-reverse-string-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
