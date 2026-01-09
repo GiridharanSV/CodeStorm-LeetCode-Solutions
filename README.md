@@ -193,6 +193,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0594-longest-harmonious-subsequence](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -265,6 +266,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0407-trapping-rain-water-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
@@ -315,6 +317,7 @@ A curated collection of my LeetCode solutions written in Java.
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
@@ -330,6 +333,7 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -341,6 +345,7 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Dynamic Programming
