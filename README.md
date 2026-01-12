@@ -45,6 +45,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0011-container-with-most-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -283,6 +284,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
@@ -351,6 +353,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -484,6 +487,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1078-remove-outermost-parentheses](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -491,6 +495,7 @@ A curated collection of my LeetCode solutions written in Java.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Linked List
