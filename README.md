@@ -16,6 +16,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0728-self-dividing-numbers](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0908-smallest-range-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0908-smallest-range-i) |
+| [1266-minimum-time-visiting-all-points](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -80,6 +81,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [1137-height-checker](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1390-four-divisors) |
@@ -540,4 +542,8 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
