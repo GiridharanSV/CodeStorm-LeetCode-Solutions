@@ -72,6 +72,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0908-smallest-range-i) |
+| [0942-di-string-match](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -261,6 +262,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0541-reverse-string-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -305,6 +307,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0409-longest-palindrome](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -402,6 +405,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0742-to-lower-case](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0942-di-string-match](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
