@@ -74,6 +74,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0908-smallest-range-i) |
+| [0941-valid-mountain-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
