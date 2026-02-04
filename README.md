@@ -17,6 +17,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0728-self-dividing-numbers](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0908-smallest-range-i](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0908-smallest-range-i) |
+| [1037-valid-boomerang](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1390-four-divisors) |
@@ -80,6 +81,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1037-valid-boomerang](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1137-height-checker](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -555,5 +557,6 @@ A curated collection of my LeetCode solutions written in Java.
 ## Geometry
 |  |
 | ------- |
+| [1037-valid-boomerang](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1037-valid-boomerang) |
 | [1266-minimum-time-visiting-all-points](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
