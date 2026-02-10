@@ -411,6 +411,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0680-valid-palindrome-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0942-di-string-match](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -482,6 +483,7 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0796-rotate-string) |
 ## Number Theory
 |  |
 | ------- |
