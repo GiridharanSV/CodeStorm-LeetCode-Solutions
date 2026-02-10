@@ -83,6 +83,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0977-squares-of-a-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-valid-boomerang](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1037-valid-boomerang) |
+| [1089-duplicate-zeros](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1137-height-checker](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -268,6 +269,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0680-valid-palindrome-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
