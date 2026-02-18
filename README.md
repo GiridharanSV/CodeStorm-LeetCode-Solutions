@@ -248,6 +248,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0268-missing-number](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
