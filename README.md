@@ -417,6 +417,7 @@ A curated collection of my LeetCode solutions written in Java.
 | [0944-delete-columns-to-make-sorted](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -505,6 +506,7 @@ A curated collection of my LeetCode solutions written in Java.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/GiridharanSV/CodeStorm-LeetCode-Solutions/tree/master/2211-count-collisions-on-a-road) |
